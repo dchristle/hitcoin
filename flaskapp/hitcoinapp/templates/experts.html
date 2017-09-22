@@ -81,30 +81,21 @@
       <div class="row">
         <div class="col-sm-3 col-md-2 sidebar">
           <ul class="nav nav-sidebar">
-            <li class="active"><a href="/index">ICO Predictions <span class="sr-only">(current)</span></a></li>
-            <li><a href="/experts">Cryptocurrency Expert Redditors</a></li>
+            <li><a href="/index">ICO Predictions </a></li>
+            <li class="active"><a href="/experts">Cryptocurrency Expert Redditors<span class="sr-only">(current)</span></a></li>
           </ul>
 
         </div>
         <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
-          <h1 class="page-header">Predictions of ICO Raise Amounts ($m)</h1>
-          <img src="../static/ICO_log10_actual_vs_predicted.png" width="500" height ='350'>
+          <h1 class="page-header">Experts on Reddit</h1>
+          
           <br>
-          Select ICO: <form name="icosubmit" action="/index" METHOD='POST'>
-            <select name="ico_form_selection">
-          {% for ico in list_of_icos %}
-              <option value="{{ ico }}">{{ ico }}</option>
-          {% endfor %}
-            </select>
-
-            <input type=submit value='Submit' style="width: 70px; height: 36px;">
-          </form>
-
-          {% if not ico_results.empty %}
+          <form name="icosubmit" action="/index" METHOD='POST'>
+          {% if not expert_series.empty %}
           <table class="table table-hover"> 
-            <tr><th>ICO Name</th><th>Ticker</th><th>Prediced ICO Size ($M)</th><th>Actual ICO Size ($M)</th></tr> 
-            {% for i, ico_result in ico_results.iterrows(): %} 
-            <tr><td>{{ ico_result['coinname'] }}</td><td>{{ ico_result['assetname']}}</td><td> {{ ico_result['raise_predict'] }}</td><td>{{ico_result['raise_actual']}}</td></tr> 
+            <tr><th>Username</th><th>Expert Score</th>
+            {% for i, expert_row in expert_series.iteritems(): %} 
+            <tr><td><a href='https://www.reddit.com/user/{{ expert_row[1] }}/posts'>/u/{{ expert_row[1] }}</a></td><td>{{ expert_row[0]}}</td></tr> 
             {% endfor %} 
           </table> 
           {% endif %}
