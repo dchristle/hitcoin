@@ -70,7 +70,7 @@ var tooltip = d3.select("#vis-container").append("div")
 // tooltip mouseover event handler
 var tipMouseover = function(d) {
     var color = colorScale(d.Actual);
-    var html  = "Coinna: <span style='color:" + color + ";'>" + d.Name + "</span><br/>" +
+    var html  = "Coin: <span style='color:" + color + ";'>" + d.Name + "</span><br/>" +
                 'ICO Period: ' +  d.StartDate + "-" + d.EndDate + "<br/>" +
                 "Predicted Raise ($m): <b> " + d3.format(".1f")(d.Predicted) + "</b><br/> Actual Raise ($m): <b>" + d3.format(".1f")(d.Actual) + "</b>";
     tooltip.html(html)
