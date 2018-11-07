@@ -1,0 +1,125 @@
+Unnamed: 0,Name,Open Date (GMT),Close Date (GMT),Website,Whitepaper,Asset,ICO Size ($m),subreddits,total_comments,closed_utc,has_a_subreddit,cumulative_raised
+0,Opus,7/21/2017,8/24/2017,http://opus-foundation.org/,https://opus-foundation.org/whitepaper.pdf,OPT,1.33,opusfoundation,116.0,1503558000.0,1.0,1560.06
+1,Paquarium,6/22/2017,8/24/2017,https://ico.paquarium.com/#executiveteam,https://ico.paquarium.com/wp-content/uploads/2017/06/Whihte-Paper.pdf,PQT,0.62,none,0.0,1503558000.0,0.0,1560.06
+2,Agrello,7/16/2017,8/17/2017,https://www.agrello.org/,https://docs.agrello.org/Agrello-Self-Aware_Whitepaper-English.pdf,DLT,26.14,Agrello,880.0,1502953200.0,1.0,1533.92
+3,Tierion,7/27/2017,8/10/2017,https://tokensale.tierion.com/,https://tokensale.tierion.com/TierionTokenSaleWhitePaper.pdf,TNT,25.04,tierion,87.0,1502348400.0,1.0,1508.88
+4,Blocktix,7/7/2017,8/7/2017,https://www.blocktix.io/,https://www.blocktix.io/public/doc/blocktix-wp-draft.pdf#whitepaper,TIX,6.98,blocktix,43.0,1501225200.0,1.0,1471.13
+5,district0x Network,7/18/2017,8/1/2017,https://district0x.io/,https://district0x.io/docs/district0x-whitepaper.pdf,DNT,13.19,district0x,34.0,1501570800.0,1.0,1493.2800000000002
+6,SunContract,6/30/2017,8/1/2017,https://suncontract.org/,https://suncontract.org/res/whitepaper.pdf,SNC,2.41,suncontract,99.0,1501570800.0,1.0,1493.2800000000002
+7,FundYourselfNow,6/13/2017,7/31/2017,https://www.fundyourselfnow.com/#,https://www.fundyourselfnow.com/wp-content/uploads/2017/04/FYN-Business_Outline-2017.pdf,FYN,0.74,fundyourselfnow,3.0,1501484400.0,1.0,1492.5400000000004
+9,Blocktix,7/7/2017,7/28/2017,https://blocktix.io/,https://blocktix.io/public/doc/blocktix-wp-draft.pdf#whitepaper,TIX,6.89,blocktix,43.0,1501225200.0,1.0,1471.13
+10,RootProject,7/10/2017,7/28/2017,https://www.rootproject.co/,https://docs.wixstatic.com/ugd/903af2_2e38351151e5444b8a488fb9ee7af43a.pdf,ROOTS,3.5,RootProject,64.0,1501225200.0,1.0,1471.13
+11,TrueFlip,6/28/2017,7/28/2017,https://ico.trueflip.io/,https://trueflip.io/TrueFlip%20Whitepaper(01.06).pdf?1,TFL,4.04,trueflip,12.0,1501225200.0,1.0,1471.13
+12,GeoFounders,6/25/2017,7/26/2017,http://www.geofounders.com/ico/,http://www.geofounders.com/GeoFoundersWhitePaper.pdf,GUNS,0.23,geofounders,14.0,1501052400.0,1.0,1464.0800000000004
+13,Primalbase,6/26/2017,7/26/2017,http://primalbase.com/,http://primalbase.com/assets/PrimalbaseWP.pdf,PBT,6.82,none,4.0,1501052400.0,0.0,1464.0800000000004
+15,Eros,7/9/2017,7/23/2017,https://eros.vision/,https://eprint.iacr.org/2016/464.pdf,EROS,4.86,none,0.0,1500793200.0,0.0,1459.2200000000007
+16,SkinCoin,6/21/2017,7/21/2017,https://skincoin.org/,https://skincoin.org/whitepaper.pdf,SKIN,3.32,SkinCoin,4.0,1500620400.0,1.0,1455.9
+17,Gilgam,6/20/2017,7/20/2017,https://ico.gilgam.es/ico,https://ico.gilgam.es/whitepaper/Gilgam.es.whitepaper.pdf,GGS,0.22,none,1.0,1500534000.0,0.0,1455.47
+18,Gilgam.es,6/20/2017,7/20/2017,https://ico.gilgam.es/,https://ico.gilgam.es/whitepaper/Gilgam.es.whitepaper.pdf,GGS,0.21,none,2.0,1500534000.0,0.0,1455.47
+20,CoinDash,7/17/2017,7/17/2017,https://coindash.io/,https://coindash.io/coindash-whitepaper.pdf,CDT,0.0,CoinDash,42.0,1500274800.0,1.0,1455.4699999999998
+21,Sumerchain,6/17/2017,7/17/2017,https://sumerchain.com/,https://sumerchain.com/images/button3.png,SMET,0.0,none,0.0,1500274800.0,0.0,1455.4699999999998
+22,Mothership,7/7/2017,7/16/2017,https://mothership.cx/,https://mothership.cx/documents/whitepaper.pdf,MSP,4.69,MothershipExchange,0.0,1500188400.0,1.0,1450.78
+24,PressOne,7/12/2017,7/15/2017,https://ico.info/projects/1,\,PRS,82.0,pressone,12.0,1500102000.0,1.0,1326.7800000000002
+25,SONM,6/15/2017,7/15/2017,https://sonm.io/,https://sonm.io/Sonm1.pdf,SNM,42.0,SONM,1039.0,1500102000.0,1.0,1326.7800000000002
+26,Orocrypt,6/14/2017,7/14/2017,https://orocrypt.com/#,https://orocrypt.com/docs/whitepaper.pdf,OROC,0.14,Orocrypt,5.0,1500015600.0,1.0,1326.64
+27,Tezos,7/1/2017,7/13/2017,https://www.tezos.com/,https://www.tezos.com/static/papers/white_paper.pdf,XTZ,232.0,tezos,9079.0,1499929200.0,1.0,1077.37
+28,InsureX,7/10/2017,7/13/2017,https://insurex.co/,https://insurex.co/wp-content/uploads/2017/05/insurex_whitepaper.pdf,IXT,17.27,insureX,66.0,1499929200.0,1.0,1077.37
+29,Nimiq,6/28/2017,7/12/2017,https://nimiq.com/,https://icobazaar.com/static/8943c304a27c457957350ecaf4d97c08/NimiqAFrictionlessPaymentProtocolNativetotheWeb.pdf,NET,14.53,Nimiq,621.0,1499842800.0,1.0,1052.0
+30,ATBcoin,6/12/2017,7/12/2017,https://atbcoin.com/,https://atbcoin.com/whitepaper-en/,ATB,10.84,ATBcoin,9.0,1499842800.0,1.0,1052.0
+31,LeviarCoin,4/7/2017,7/9/2017,https://leviarcoin.org/,https://leviarcoin.org/assets/pdf/LeviarCoin_White_Paper_v1.pdf,XLC,0.77,none,2.0,1499583600.0,0.0,1051.23
+32,OnPlace,6/6/2017,7/6/2017,http://investments.onplace.io/,https://github.com/OnPlace/Documents/blob/master/pdf/Whitepaper.pdf,OPL,0.92,none,1.0,1499324400.0,0.0,1050.31
+33,Polybius,5/31/2017,7/5/2017,https://polybius.io/,https://polybius.io/media/prospectus.pdf,PLBT,31.65,none,11.0,1499238000.0,0.0,1006.57
+34,Santiment,7/4/2017,7/5/2017,https://santiment.net,https://docs.google.com/document/d/1hHmJQWrPrObSgCA8kTbk-4LgqGbYzukQAjtg5b8jwc0,SAN,12.09,santiment,24.0,1499238000.0,1.0,1006.57
+36,Rialto,6/26/2017,7/4/2017,https://www.rialto.ai/,https://www.rialto.ai/wp-content/uploads/2017/06/RIALTO.AI_Whitepaper.pdf,XRL,10.0,Rialto,70.0,1499151600.0,1.0,991.5699999999997
+37,Starta,7/4/2017,7/4/2017,https://startaico.com/,https://startaico.com/files/whitepaper.pdf,Starta,5.0,Starta,3.0,1499151600.0,1.0,991.5699999999997
+41,AdEx,6/30/2017,6/30/2017,https://www.adex.network/,https://www.adex.network/adex/AdEx-Whitepaper-v1.4.pdf,ADX,12.31,AdEx,17.0,1498806000.0,1.0,977.51
+42,BlockPool,5/1/2017,6/30/2017,https://blockpool.io,https://blockpool.io/docs/BLOCK_WP_A.pdf,BPL,1.75,blockpool,11.0,1498806000.0,1.0,977.51
+43,DCORP,6/1/2017,6/29/2017,https://www.dcorp.it/crowdsale,https://github.com/frankbonnet/DCORP-Whitepaper/blob/master/whitepaper%20v0.3.2_EN-revised.pdf,DRP,5.05,dcorp,400.0,1498719600.0,1.0,972.46
+45,21 Million,6/12/2017,6/28/2017,https://www.21million.co.uk/,https://docs.wixstatic.com/ugd/1478f4_a14804b687c44e4d8a9edbce5f7852e3.pdf,21M,0.38,none,858.0,1498633200.0,0.0,972.08
+46,SilverCoin,6/21/2017,6/27/2017,https://silvercoin.io/,https://silvercoin.io/whitepaper/,SVC,0.21,silvercoin,1.0,1498546800.0,1.0,971.87
+47,iDice,6/11/2017,6/26/2017,https://crowdsale.idice.io/,https://crowdsale.idice.io/idice-whitepaper.pdf,ICE,2.02,iDice,13.0,1498460400.0,1.0,969.85
+48,Octanox,5/25/2017,6/26/2017,https://octanox.org/,https://octanox.org/whitepaper.pdf,OTX,0.0,none,0.0,1498460400.0,0.0,969.85
+49,Wagerr,6/1/2017,6/25/2017,https://wagerr.com/,https://wagerr.com/wagerr_whitepaper_v1.pdf,WGR,9.92,Wagerr,598.0,1498374000.0,1.0,959.5399999999997
+50,CryptoPing,5/25/2017,6/25/2017,https://cryptoping.tech/,https://cryptoping.tech/cp_whitepaper_en.pdf,PING,0.39,CryptoPing,16.0,1498374000.0,1.0,959.5399999999997
+51,NVO,5/23/2017,6/25/2017,https://nvo.io/,https://nvo.io/assets/whitepaper.pdf,NVO,0.0,NVO,272.0,1498374000.0,1.0,959.5399999999997
+52,TenX,6/24/2017,6/24/2017,https://www.tenx.tech/,https://www.tenx.tech/whitepaper/tenx_whitepaper_final.pdf,PAY,83.11,TenX,503.0,1498287600.0,1.0,876.43
+53,MaskNetwork,5/24/2017,6/24/2017,http://masknetwork.com/,http://masknetwork.com/white_paper.pdf,MSK,0.0,maskcoin,2.0,1498287600.0,1.0,876.43
+54,OmiseGO,6/22/2017,6/23/2017,https://omg.omise.co/,https://cdn.omise.co/omg/whitepaper.pdf,OMG,21.0,omise_go,117.0,1498201200.0,1.0,855.4300000000002
+56,Civic,6/21/2017,6/22/2017,https://www.civic.com/,https://tokensale.civic.com/CivicTokenSaleWhitePaper.pdf,CVC,33.0,CivicPlatform,1141.0,1498114800.0,1.0,822.43
+57,Status,6/17/2017,6/21/2017,https://status.im/,https://blog.status.im/introducing-status-ethereum-918b1447274,SNT,95.0,"status_token, statusim",4962.0,1498028400.0,1.0,726.3299999999998
+58,Internet of Coins,3/21/2017,6/21/2017,https://coinstorm.net/en,https://coinstorm.net/whitepaper_ioc.pdf,HYBRID,1.1,none,21.0,1498028400.0,0.0,726.3299999999998
+59,Monaco,5/18/2017,6/18/2017,https://mona.co/,https://mona.co/monaco-whitepaper.pdf,MCO,10.29,MonacoCard,129.0,1497769200.0,1.0,716.04
+61,Minexcoin,5/15/2017,6/13/2017,https://minexcoin.com/,https://minexcoin.com/html/download/wpeng.pdf,MNC,0.0,minexcoin,7.0,1497337200.0,1.0,716.04
+62,SuperDAO,6/13/2017,6/13/2017,http://www.superdao.io/,https://icobazaar.com/static/5d851c6035cf18e85eb9d2ac321f45d3/Pokereum-Whitepaper-version_0.4_modded-HashInfo.pdf,SUP,0.0,SuperDao,25.0,1497337200.0,1.0,716.04
+63,Bancor,6/12/2017,6/12/2017,https://www.bancor.network/,https://www.bancor.network/static/Bancor_Protocol_Whitepaper_en.pdf,BNT,153.0,Bancor,1509.0,1497250800.0,1.0,563.04
+64,Aira,5/25/2017,6/11/2017,http://aira.life/,http://aira.life/wp-content/uploads/2017/05/Aira_robot_economics_doctrine.pdf,AIR,1.02,none,3.0,1497164400.0,0.0,562.02
+65,Zrcoin,5/11/2017,6/9/2017,https://zrcoin.io/,https://zrcoin.io/files/Whitepaper_ENG.pdf,ZRC,7.01,zrcoin,9.0,1496991600.0,1.0,555.01
+66,EcoBit,4/9/2017,6/8/2017,http://www.ecobit.io/en/index.html,https://icobazaar.com/static/759089087958b06bc44a6c2494189f3f/Technology_-_ECOBIT.pdf,ECOB,3.49,ecobit,1.0,1496905200.0,1.0,551.5199999999999
+67,Cofound.it,6/4/2017,6/6/2017,https://cofound.it/en/,https://cofounditmedia.s3-eu-west-1.amazonaws.com/documents/Cofound.it_business_plan_Na27itB.pdf,CFI,11.34,cofoundit,110.0,1496732400.0,1.0,539.7699999999999
+68,VOISE,5/6/2017,6/6/2017,https://voise.it/,https://voise.it/whitepaper-voise.pdf,VSM,0.41,voise,4.0,1496732400.0,1.0,539.7699999999999
+69,Patientory,5/31/2017,6/3/2017,https://patientory.com/,https://patientory.com/patientory_whitepaper.pdf,PTOY,6.52,PTOY,8.0,1496473200.0,1.0,533.25
+70,Embermine,5/5/2017,6/2/2017,https://embermine.com/,https://embermine.com/about-embermine/the-embermine-manifesto/,EMB,0.08,Embermine,50.0,1496386800.0,1.0,533.1700000000002
+71,Adel,5/1/2017,6/1/2017,https://www.adelphoi.io/,https://www.adelphoi.io/content/pdf/wp_1.pdf,ADL,1.21,Adel,110.0,1496300400.0,1.0,531.96
+72,Basic Attention Token,5/31/2017,5/31/2017,https://basicattentiontoken.org/,https://basicattentiontoken.org/BasicAttentionTokenWhitePaper-4.pdf,BAT,35.0,BasicAttentionToken,180.0,1496214000.0,1.0,491.66
+73,Exscudo,4/25/2017,5/31/2017,https://exscudo.com/,https://exscudo.com/Whitepaper_v1.0.pdf,EON,5.3,EXSCUDO,93.0,1496214000.0,1.0,491.66
+74,Mysterium Network,5/30/2017,5/30/2017,https://mysterium.network/,https://mysterium.network/whitepaper.pdf,MYST,14.1,MysteriumNetwork,12.0,1496127600.0,1.0,475.88000000000017
+75,Suretly,5/16/2017,5/30/2017,https://www.ico.suretly.com/,https://suretly.com/docs/Suretly_whitepaper_v1.2.pdf,SUR,1.68,Suretly,0.0,1496127600.0,1.0,475.88000000000017
+78,MobileGo,4/25/2017,5/25/2017,https://mobilego.io/,https://mobilego.io/pdf/MobileGo-Whitepaper.pdf,MOBILEGO,53.07,MobileGo,100.0,1495695600.0,1.0,393.59
+79,Storj,5/19/2017,5/25/2017,https://storj.io/index.html,https://storj.io/storj.pdf,STORJ,29.22,storj,5733.0,1495695600.0,1.0,393.59
+80,E4ROW,5/2/2017,5/22/2017,https://www.e4row.co.il/,https://medium.com/e4row/e4row-development-blueprint-d6284c78bf1a,E4ROW,0.86,E4ROW,195.0,1495436400.0,1.0,392.73
+81,Viva Coin,5/1/2017,5/21/2017,https://vivaco.in/,https://s3.amazonaws.com/vivacoin/viva-white-paper-v-2-1.pdf,VIVA,0.0,none,0.0,1495350000.0,0.0,392.73
+84,Peerplays,2/26/2017,5/15/2017,https://www.peerplays.com/,https://www.peerplays.com/docs/Peerplays_Whitepaper.pdf,PEERPLAYS,1.46,Peerplays,122.0,1494831600.0,1.0,388.7600000000001
+85,Ethbits,4/15/2017,5/15/2017,https://www.ethbits.com/,https://ico.ethbits.com/white_paper.pdf,ETB,1.28,Ethbits,200.0,1494831600.0,1.0,388.7600000000001
+86,Legends Room,4/18/2017,5/15/2017,https://legendsroomlv.com/,\,LGD,1.23,LegendsLGD,4.0,1494831600.0,1.0,388.7600000000001
+87,BOScoin,5/9/2017,5/10/2017,https://boscoin.io/en/home/,https://icobazaar.com/static/10839a54594c1935932ea3013647ed64/BOScoinWhitePaper.pdf,BOS,17.92,boscoin,80.0,1494399600.0,1.0,370.84
+89,Quantum Resistant Ledger,5/1/2017,5/7/2017,https://theqrl.org/,https://theqrl.org/whitepaper/QRL_whitepaper.pdf,QRL,4.16,QRL,10.0,1494140400.0,1.0,366.68
+90,TokenCard,5/2/2017,5/2/2017,https://tokencard.io/,http://tokencard.io/tokencard_whitepaper.pdf,TKN,12.7,TokenCard,17.0,1493708400.0,1.0,353.98
+91,Creativechain,3/15/2017,5/1/2017,https://www.creativechain.org,http://creativechain.org/whitepaper/,CREA,0.35,none,0.0,1493622000.0,0.0,353.63
+92,Apptrade,2/28/2017,4/30/2017,https://www.apptrade.io/,https://ito.apptrade.io/docs/opp.pdf,APPX,0.24,none,7.0,1493535600.0,0.0,353.3900000000001
+93,Lunyr,3/29/2017,4/28/2017,https://lunyr.com/,https://github.com/Lunyr/Lunyr/blob/master/Lunyr_White_Paper_ENG.pdf,LUN,5.32,Lunyr,211.0,1493362800.0,1.0,347.1
+94,Back to Earth,4/26/2017,4/28/2017,https://backto.earth/,https://backto.earth/blog/back-to-earth-white-paper/,SRC,0.97,none,3.0,1493362800.0,0.0,347.1
+95,TaaS,3/27/2017,4/27/2017,https://taas.fund/,http://taas.fund/media/whitepaper.pdf,TAAS,7.57,taasfund,75.0,1493276400.0,1.0,339.5300000000001
+97,Gnosis,4/24/2017,4/24/2017,https://gnosis.pm/,https://gnosis.pm/resources/default/pdf/gnosis_whitepaper.pdf,GNO,12.25,gnosisPM,466.0,1493017200.0,1.0,327.2800000000001
+98,IEX.EC,4/19/2017,4/19/2017,http://iex.ec/,http://iex.ec/wp-content/uploads/2017/04/iExec-WPv2.0-English.pdf,RLC,12.12,iexec,196.0,1492585200.0,1.0,315.16
+99,WeTrust,3/2/2017,4/12/2017,https://www.wetrust.io/,https://www.wetrust.io/#home-section-whitepaper,TRST,4.66,WeTrustPlatform,159.0,1491980400.0,1.0,310.5
+101,Aeternity,4/3/2017,4/6/2017,https://www.aeternity.com/,http://blockchain.aeternity.com/%C3%A6ternity-blockchain-whitepaper.pdf,XAE,22.63,Aeternity,292.0,1491462000.0,1.0,271.07000000000005
+102,Cosmos Network,4/6/2017,4/6/2017,https://cosmos.network/,https://cosmos.network/whitepaper,ATOM,16.8,TheCosmos,198.0,1491462000.0,1.0,271.07000000000005
+104,Matchpool,4/2/2017,4/3/2017,https://matchpool.co/,https://matchpool.co/wp-content/uploads/2016/12/Matchpool_Whitepaper_140117.pdf,GUP,5.63,Matchpool,39.0,1491202800.0,1.0,265.44
+105,Equibit,2/1/2017,3/31/2017,http://equibitgroup.com/,http://equibit.org/equibit.pdf,EQB,1.14,Equibit,44.0,1490943600.0,1.0,264.29
+106,Chain of Points,2/26/2017,3/31/2017,https://chainofpoints.com/,https://chainofpoints.com/cop_whitepaper.pdf,POINTS,0.01,ChainOfPoints,15.0,1490943600.0,1.0,264.29
+107,CashScripter,2/28/2017,3/30/2017,https://www.cashscripter.com/,https://www.cashscripter.com/themes/cs/assets/docs/whitepaper.pdf,XCS,0.19,none,0.0,1490857200.0,0.0,264.1
+108,Qtum,3/16/2017,3/21/2017,https://qtum.org/en/,https://qtum.org/uploads/files/cf6d69348ca50dd985b60425ccf282f3.pdf,QTUM,15.43,Qtum,73.0,1490079600.0,1.0,246.02
+109,Edgeless,2/28/2017,3/21/2017,https://edgeless.io/,https://github.com/EdgelessCasino/White_paper/blob/master/White_Paper.pdf,EDG,2.65,Edgeless,70.0,1490079600.0,1.0,246.02
+110,Lykke,2/9/2017,2/28/2017,https://www.lykke.com/,https://www.lykke.com/ico/Whitepaper_LykkeExchange.pdf,Lykke,1.21,lykke,111.0,1488268800.0,1.0,243.72
+111,Augmentors,1/31/2017,2/28/2017,http://www.augmentorsgame.com/,http://www.augmentorsgame.com/wp-content/uploads/2017/01/170130.cln-Augmentor-ICO-Sale-Agreement.pdf,DBT,1.09,Augmentors,30.0,1488268800.0,1.0,243.72
+114,Etheroll,2/12/2017,2/26/2017,https://etheroll.com/,https://etheroll.wordpress.com/,DICE,0.29,etheroll,211.0,1488096000.0,1.0,243.43
+115,Melon,2/15/2017,2/15/2017,https://melonport.com/,https://github.com/melonproject/greenpaper/blob/master/melonprotocol.pdf,MLN,2.9,MelonProject,77.0,1487145600.0,1.0,240.53
+116,Chronobank,12/15/2016,2/14/2017,https://chronobank.io/,https://chronobank.io/files/whitepaper.pdf,LH,5.4,ChronoBank,129.0,1487059200.0,1.0,235.13
+117,Dfinity,2/11/2017,2/13/2017,https://dfinity.network/,https://dfinity.network/documentation/,DFN,3.75,dfinity,53.0,1486972800.0,1.0,231.38
+119,Wings,11/18/2016,1/6/2017,https://www.wings.ai/#!/home/discover,https://wingsfoundation.ch/?whitepaper=1,WINGS,2.07,WingsDAO,54.0,1483689600.0,1.0,229.31
+121,Darcrus,12/21/2016,12/28/2016,https://darcr.us/,https://darcr.us/docs/Darcrus-Use-Cases.pdf,DAR,0.3,darcrus,5.0,1482912000.0,1.0,229.01
+122,BlockCDN,12/10/2016,12/26/2016,http://www.blockcdn.org/,http://www.blockcdn.org/file/BlockCDN1.2.pdf,BCDN,0.3,none,1.0,1482739200.0,0.0,228.71
+126,vDice,11/15/2016,12/15/2016,https://www.vdice.io/,https://blog.vdice.io/what-is-vdice-ether-gambling/,vSlice ,1.65,vDice,146.0,1481788800.0,1.0,227.06
+127,Ark,11/7/2016,12/11/2016,https://ark.io/,https://ark.io/whitepaper/,ARK,1.0,ArkEcosystem,12.0,1481443200.0,1.0,226.05999999999997
+128,Golos,11/1/2016,12/4/2016,https://golos.io/,https://wiki.golos.io/1-introduction/golos_whitepaper.html,GOLOS,0.45,Golos,0.0,1480838400.0,1.0,225.61
+130,Beyond the Void,11/1/2016,11/30/2016,https://www.beyond-the-void.net/,https://www.beyond-the-void.net/wiki/tag/ico/,Nexium,0.33,BeyondTheVoidGame,38.0,1480492800.0,1.0,225.28
+132,Arcade City,11/1/2016,11/29/2016,https://arcade.city/,https://docs.google.com/document/d/1Fm39dHCJmAAZ-P5C-qOc4P2f0Vx__84AhDD98LPNLVY,ARC,0.64,arcadecity,29.0,1480406400.0,1.0,224.64
+133,ETCWin,11/23/2016,11/23/2016,https://www.etcwin.com/,http://etcwin.com/html/ETCWin_en.html,WIN,1.31,none,7.0,1479888000.0,0.0,223.33
+134,Komodo,10/15/2016,11/20/2016,https://komodoplatform.com/,https://komodoplatform.com/downloads/Komodo_dPoW_Whitepaper_v1.pdf,KMD,1.98,komodoplatform,146.0,1479628800.0,1.0,221.35
+135,Golem,11/11/2016,11/11/2016,https://golem.network/,https://golem.network/doc/Golemwhitepaper.pdf,GNT,8.6,GolemProject,240.0,1478851200.0,1.0,212.75
+137,Decent,9/11/2016,11/6/2016,https://decent.ch/,https://wiki.decent.ch/doku.php,DCT,4.13,Decent_Donald,41.0,1478415600.0,1.0,208.62
+138,Synereo,9/19/2016,10/17/2016,https://www.synereo.com/,https://github.com/synereo/synereo.github.io/raw/master/whitepapers/synereo.pdf,AMP,4.7,Synereo,1410.0,1476687600.0,1.0,203.92
+143,Antshares,8/8/2016,9/7/2016,https://www.antshares.org/,http://docs.antshares.org/zh-cn/white-paper.html,ANT,3.5,Antshares,68.0,1473231600.0,1.0,200.42
+144,Metaverse,9/5/2016,9/5/2016,http://viewfin.com/index.html#team,https://github.com/ViewFin/Metaverse/blob/master/Metaverse%20White%20Paper(draft)-EN.pdf,ETP,3.0,metaverse,189.0,1473058800.0,1.0,197.42
+147,HEAT,7/11/2016,8/16/2016,http://heatledger.com/,http://heatledger.com/HEATWhitepaper.pdf,HEAT,0.9,"heatledger, heatledgerisascam",7.0,1471330800.0,1.0,196.52
+151,Breakout Coin,6/13/2016,7/7/2016,http://www.breakoutcoin.com/,https://github.com/BreakoutCoin/Breakout-Chain-Whitepaper/releases/download/1.0/Breakout-Chain-WP-1.0.pdf,BRK,0.56,BreakoutCoin,55.0,1467874800.0,1.0,195.96
+156,The DAO,4/30/2016,5/1/2016,https://forum.daohub.org/,https://daowiki.atlassian.net/wiki/,DAO,152.0,the_DAO,145.0,1462086000.0,1.0,43.53
+157,Project Decorum,4/3/2016,5/1/2016,http://www.project-decorum.com/,http://www.project-decorum.com/live-proof-of-concept/,PDC,0.43,safenet,60.0,1462086000.0,1.0,43.53
+160,DigixDAO,3/28/2016,3/28/2016,https://www.dgx.io/,https://dgx.io/whitepaper.pdf,DGD,5.5,digix,139.0,1459148400.0,1.0,38.03
+161,Lisk,2/22/2016,3/21/2016,https://lisk.io/,https://docs.lisk.io/docs,LSK,5.8,Lisk,210.0,1458543600.0,1.0,32.230000000000004
+163,Iota,11/24/2015,12/20/2015,https://iota.org/,\,IOTA,0.44,Iota,0.0,1450598400.0,1.0,31.790000000000006
+164,Augur,8/17/2015,10/1/2015,https://augur.net/,http://docs.augur.net/,REP,5.14,Augur,2416.0,1443682800.0,1.0,26.65
+172,Ethereum,7/23/2014,9/2/2014,https://ethereum.org/,https://github.com/ethereum/wiki/wiki/White-Paper,ETH,18.44,ethereum,10886.0,1409641200.0,1.0,8.21
+173,Storjcoin X,7/17/2014,8/17/2014,https://storj.io/index.html,https://github.com/Storj/,SJCX,0.42,storj,393.0,1408258800.0,1.0,7.79
+175,MaidSafeCoin,4/21/2014,5/21/2014,https://maidsafe.net/,https://github.com/maidsafe/Whitepapers/blob/master/Project-Safe.md,MAID,6.0,MaidSafeCoin,5.0,1400655600.0,1.0,1.79
+176,Counterparty,1/2/2014,2/3/2014,https://counterparty.io/,https://github.com/CounterpartyXCP/Documentation/blob/master/Developers/protocol_specification.md,XCP,1.79,counterparty,1.0,1391414400.0,1.0,0.0
